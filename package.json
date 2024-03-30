@@ -1,8 +1,9 @@
 {
   "name": "dani-pdf-vue",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "type": "module",
+  "author": "Daniel Qolami <qolamidaniel@gmail.com>",
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check \"build-only {@}\" --",
