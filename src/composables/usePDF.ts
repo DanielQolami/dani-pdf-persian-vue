@@ -3,7 +3,7 @@
 
 import { jsPDF } from 'jspdf';
 import type { jsPDFOptions } from "jspdf";
-import { callAddFont } from "@/assets/fonts/Vazirmatn-VariableFont_wght-normal.js";
+import { callAddFont } from "@/assets/fonts/Vazirmatn-VariableFont_wght-normal";
 
 // create sizes based on Flight PDF measurements
 class pdfSizeMaker {
